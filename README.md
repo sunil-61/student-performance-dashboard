@@ -48,3 +48,9 @@ All visuals are interactive – selecting filters updates the dashboard instantl
 - CSV file format
 
 ---
+
+## 📸 Dashboard Preview
+
+![Power BI Dashboard](./Power%20BI.jpeg)
+
+---
